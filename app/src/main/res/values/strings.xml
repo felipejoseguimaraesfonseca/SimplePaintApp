@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimplePaint App</string>
+    <string name="limpar_desenho">Limpar desenho</string>
+</resources>
